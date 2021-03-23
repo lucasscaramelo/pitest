@@ -1,6 +1,17 @@
 # Pitest
 Framework para mutação de dados em testes, podendo variar seu nível de acordo com a necessidade.
 
+Para utilizar basta importar a depedência:
+
+ˋˋˋ
+ <dependency>
+            <groupId>org.pitest</groupId>
+            <artifactId>pitest</artifactId>
+            <version>1.5.2</version>
+ </dependency>
+ˋˋˋ
+
+
 Na raiz do projeto, execute:
 
 > mvn org.pitest:pitest-maven:mutationCoverage
