@@ -1,7 +1,7 @@
 # Pitest
 Framework para mutação de dados em testes, podendo variar seu nível de acordo com a necessidade.
 
-Para utilizar basta importar a depedência:
+Para utilizar basta importar a dependência:
 
 ```
  <dependency>
